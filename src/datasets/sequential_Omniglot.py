@@ -45,7 +45,7 @@ axes[1].get_yaxis().set_visible(False)
 plt.tight_layout()
 
 # Save plot as pdf
-plt.savefig('../../figures/sequential_omniglot.pdf')
+plt.savefig('../../figures/sequential_Omniglot.pdf')
 
 # Show the plot
 plt.show()
